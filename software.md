@@ -7,5 +7,6 @@
 
 * WSL2 / Ubuntu https://docs.microsoft.com/en-us/windows/wsl/install-win10
 * Windows Terminal https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab
+* Powershell 7 https://github.com/PowerShell/PowerShell/releases
 
 * Docker https://hub.docker.com/editions/community/docker-ce-desktop-windows/
