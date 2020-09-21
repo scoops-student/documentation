@@ -8,4 +8,4 @@
 * WSL2 / Ubuntu https://docs.microsoft.com/en-us/windows/wsl/install-win10
 * Windows Terminal https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab
 
-* Docker https://docs.docker.com/docker-for-windows/
+* Docker https://hub.docker.com/editions/community/docker-ce-desktop-windows/
